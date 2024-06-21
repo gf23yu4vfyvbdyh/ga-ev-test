@@ -12,5 +12,5 @@ function butotnClick2() {
 let button2 = document.getElementById('btn_1');
 console.log("テストログ0001")
 button2.addEventListener('click', butotnClick2);
-gtag('set', { 'user_id': 'USER_ID_testP240620' })
+gtag('set', { 'user_id': 'USER_ID_testP240621' })
 
